@@ -1,0 +1,22 @@
+{
+  "name": "gitweb",
+  "version": "1.0.0",
+  "description": "Testing it up",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devorous/gitweb.git"
+  },
+  "author": "Kyle D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devorous/gitweb/issues"
+  },
+  "homepage": "https://github.com/devorous/gitweb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
